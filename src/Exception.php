@@ -1,5 +1,5 @@
 <?php
-namespace JiNexus\WorldpayUS;
+namespace JiNexus\WorldpayUs;
 
 /**
  * Exception class

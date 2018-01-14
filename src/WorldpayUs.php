@@ -1,7 +1,7 @@
 <?php
-namespace JiNexus\WorldpayUS;
+namespace JiNexus\WorldpayUs;
 
-class WorldpayUS extends WorldpayUSRequest
+class WorldpayUs extends WorldpayUsRequest
 {
     const LIVE_URL = '';
     const SANDBOX_URL = 'https://gwapi.demo.securenet.com/api';
@@ -15,7 +15,7 @@ class WorldpayUS extends WorldpayUSRequest
     ];
 
     /**
-     * WorldpayUS constructor.
+     * WorldpayUs constructor.
      * @param $secureNetId
      * @param $secureKey
      * @param array $config

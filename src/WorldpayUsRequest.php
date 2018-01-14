@@ -1,7 +1,7 @@
 <?php
-namespace JiNexus\WorldpayUS;
+namespace JiNexus\WorldpayUs;
 
-class WorldpayUSRequest
+class WorldpayUsRequest
 {
     protected $gatewayUrl;
     protected $origin;

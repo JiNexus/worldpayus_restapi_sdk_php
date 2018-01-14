@@ -15,7 +15,7 @@
     "homepage": "https://github.com/JiNexus/worldpayus_restapi_sdk_php",
     "autoload": {
         "psr-4": {
-            "JiNexus\\WorldpayUS\\": "src/"
+            "JiNexus\\WorldpayUs\\": "src/"
         }
     },
     "require": {
