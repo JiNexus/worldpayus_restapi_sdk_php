@@ -45,7 +45,7 @@ $worldpayUs = new WorldpayUs($secureNet, $secureKey, $config);
 // Set your origin in order to successfully use tokenization, this is most likely your base URI.
 $worldpayUs->setOrigin($this->getBaseUrl());
 
-// Set the gateway URL, I'll be using the demo API that WorldpayUS provided. (For more information please visit their official documentation: https://www.worldpay.com/us/developers/apidocs/getstarted.html)
+// Set the gateway URL, I'll be using the demo API that WorldpayUS provided.
 $worldpayUs->setGatewayUrl('https://gwapi.demo.securenet.com/api');
 
 // Set your own HTTP Verb. Values are: 'POST', 'GET', 'PUT', 'PATCH' and 'DELETE' (Default: POST)

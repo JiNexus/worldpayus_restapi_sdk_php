@@ -1,6 +1,6 @@
 # Contributor Code of Conduct
 
-The JiNexus/Zend-Notification project adheres to [The Code Manifesto](http://codemanifesto.com)
+The "JiNexus WorldpayUS REST API SDK PHP" project adheres to [The Code Manifesto](http://codemanifesto.com)
 as its guidelines for contributor interactions.
 
 ## The Code Manifesto
