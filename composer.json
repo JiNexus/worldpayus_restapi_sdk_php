@@ -10,7 +10,8 @@
     ],
     "keywords": [
         "worldpay",
-        "worldpayus"
+        "worldpayus",
+        "payment-gateway"
     ],
     "homepage": "https://github.com/JiNexus/worldpayus_restapi_sdk_php",
     "autoload": {
