@@ -10,6 +10,7 @@
 
 - File issues at https://github.com/JiNexus/worldpayus_restapi_sdk_php/issues
 - Documentation is at https://github.com/JiNexus/worldpayus_restapi_sdk_php
+- Official Worldpay US Documentation is at https://www.worldpay.com/us/developers/apidocs/getstarted.html
 
 ## Installation
 
