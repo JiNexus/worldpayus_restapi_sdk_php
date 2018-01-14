@@ -19,7 +19,7 @@ It's recommended that you use [Composer](https://getcomposer.org/) to install `J
 $ composer require jinexus/worldpayus-restapi-sdk-php
 ```
 
-This will install `JiNexus WorldpayUS REST API SDK PHP` and all required dependencies. `JiNexus/Zend-Notification` requires PHP 5.6 or latest.
+This will install `JiNexus WorldpayUS REST API SDK PHP` and all required dependencies. `JiNexus WorldpayUS REST API SDK PHP` requires PHP 5.6 or latest.
 
 ## Basic Usage
 
